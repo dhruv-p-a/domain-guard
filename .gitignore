@@ -1,0 +1,33 @@
+# Environment & Credentials (Secrets)
+.env
+*.env
+local.properties
+
+# Python & Virtual Environments
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+domainguard.db
+.pytest_cache/
+
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+/frontend/build/
+
+# IDEs & System
+.idea/
+.vscode/
+*.swp
+*.DS_Store
+Thumbs.db
